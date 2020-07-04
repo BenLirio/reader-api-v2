@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reader-lirio",
+  "private_key_id": "7e4e57ae7944d0c37a5e90637378b655fec86952",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFo/8VMyjBMR5L\nzBcUxgyUxWqMKS3sx3t4s6xJ/+iko5CeVrcghNlca5l8Ak1PMCw13FtnR1KtVvBA\n7NULu/LJbkBHhwflEeitQ/5nwQ3s2fVtz2lUmD45x0zXB4WspWcErQDWeaSVGf4A\npc97Mbr9ddB4jfeRJ8iMJLA4moB9Um5qLg1QWs2BnXylLJKrjljXjFpvLS4sM8hP\nSBaoUw2FTT9qPtBbM6ZcDC7cDUHx7mfXLWHEj8Zu+JqNPbQ9tVLePJo1QmXKIjmZ\nkMILJkZJrD8/1qzadRD6WlBLjuElnx+6jJCUcro7tNpDqxGWh9ZIdPJ2I0SVc9/M\nwH2oxzm3AgMBAAECggEAN/R6wwtFZhDcdXQ2MqzxoesUg9Miy+8cP2uLAzZfLMGc\nL5/4X84M5fQWs7vJHHrUgXk+LYrNVwMOqSsEFDrlfW7n5vhNXWbJG8jszX4kTaLV\nr/2xYgBqWZxZ3mUkTOFVPccnPhGZbZc6yP8os0W8nYbN+1uiNCfxyO+YLqZba187\nw3yyUWPioWcu2bqt3FwxfNTkzm6zr/lmX2IYWfDaCrBbvuIZfY4+ZlRCcI155HcP\nV0qf+WCejwbZ8yRSCEOyJubjeaWC/bOaL6rT/S+7pyQMhJcPzl5GHRZ2hwN/lbvS\n91CrAbX3IumbIuFQhsEXZqoQier9ZcYKkBjNc5dTDQKBgQD1ruE06E/wAxZtuESR\nTcJKkxdmjTPVOJfq5cU8Wj7sJscikRZT2CnKtKFOUbvOEZQoR1NsxGEassrs9I+r\n2F0uVX06svFfDARfWSJaz5N6ePoZo4aBuekRgq5HJni97JL8ul73hvOAGVi5dsba\ntHdvRdgxMcmLyMwcn3UTG2L94wKBgQDN8KeLOwpDxpfG6YTGUh31PSxuxtW27cH0\nQ2dbzhDDmltV3KFZ/TkkQPicqSRrW4AByXuUoJZQ9FWQ7Qn9Ggk823YOdr9sNEnM\nU5vyFJ7yYU7xYuUhm6h5vzrncEtrxa0yC2vFPWo+YOf2RUzcSGj25AR8gIUG403j\nxx1MZmddHQKBgFjum9DWAxGjXHwNBqz+U8VA52iU1l1pZfx+fd3x4PMEunK1yDpD\ndiVNK1K5XV0jmdjWsMkfcPMEI1aQ1GzlHh3GjlUwLxUzuWV2U2xB1WWw4v9i5S6S\nSF6xSjqxH2XIfBCFuhipvfzxr986spK6Xr1lr/NmzUkPP2thATUQZc33AoGAfbzn\nrvy3QbZpSQufA69zlx5omKJSLkRwXYEiBE2Gssb16TCyW01erCH3KT+ket/9AhpQ\nl+iMnpTwAXKY3K4e4cdlB2O9cIVkYZrS5jVs7rQ3DO7C04hEj0EQ5+oKQp0JKDsM\n6/qZeciVGCoryXt0ivmhO5sEnbX/Aom5+8GybokCgYAM4QMKib9osZweUHuf1L5P\nNbnGKLzuaxIBvQrbZ8MLybWSKk/0wBDAoICnGOS4wsPtuufzZtqbJZq4wEMXwYVY\noEStzqfL4hAg/8pYUfipcdDteskl7H/NZt0+uJvLIz4hvGxmxV9xKUe7sErSiR4t\nKroHy9xbjn6tqMYUUXK2gw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "reader-api-v2@reader-lirio.iam.gserviceaccount.com",
+  "client_id": "113513483600519794180",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reader-api-v2%40reader-lirio.iam.gserviceaccount.com"
+}
